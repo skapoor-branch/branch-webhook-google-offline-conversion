@@ -108,7 +108,7 @@ const createAction = async (name: string, customer: CustomerInstance) => {
     type: 7,
     status: 2,
     value_settings: {
-      default_value: 0,
+      default_value: 1,
       default_currency_code: 'USD',
     },
     category: 4,
